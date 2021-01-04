@@ -1,0 +1,6 @@
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-Calcula poupanca 2\bin\Debug\12-Calcula poupanca 2.exe.config
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-Calcula poupanca 2\bin\Debug\12-Calcula poupanca 2.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-Calcula poupanca 2\bin\Debug\12-Calcula poupanca 2.pdb
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-Calcula poupanca 2\obj\Debug\p11-Calcula poupanca 2.csproj.CoreCompileInputs.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-Calcula poupanca 2\obj\Debug\12-Calcula poupanca 2.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-Calcula poupanca 2\obj\Debug\12-Calcula poupanca 2.pdb

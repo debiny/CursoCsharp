@@ -1,0 +1,7 @@
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\bin\Debug\Exercico - CalculaFatorial.exe.config
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\bin\Debug\Exercico - CalculaFatorial.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\bin\Debug\Exercico - CalculaFatorial.pdb
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\obj\Debug\Exercico - CalculaFatorial.csprojAssemblyReference.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\obj\Debug\Exercico - CalculaFatorial.csproj.CoreCompileInputs.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\obj\Debug\Exercico - CalculaFatorial.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercico - CalculaFatorial\obj\Debug\Exercico - CalculaFatorial.pdb

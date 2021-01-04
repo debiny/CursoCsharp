@@ -1,0 +1,7 @@
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\obj\Debug\12-CalculaInvestimenroLongo prazo.csprojAssemblyReference.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\obj\Debug\12-CalculaInvestimenroLongo prazo.csproj.CoreCompileInputs.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\bin\Debug\12-CalculaInvestimenroLongo prazo.exe.config
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\bin\Debug\12-CalculaInvestimenroLongo prazo.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\bin\Debug\12-CalculaInvestimenroLongo prazo.pdb
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\obj\Debug\12-CalculaInvestimenroLongo prazo.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\12-CalculaInvestimenroLongo prazo\obj\Debug\12-CalculaInvestimenroLongo prazo.pdb

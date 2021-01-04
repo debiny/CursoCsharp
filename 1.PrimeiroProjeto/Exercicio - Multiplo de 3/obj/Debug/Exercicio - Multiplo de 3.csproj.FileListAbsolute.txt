@@ -1,0 +1,6 @@
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercicio - Multiplo de 3\bin\Debug\Exercicio - Multiplo de 3.exe.config
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercicio - Multiplo de 3\bin\Debug\Exercicio - Multiplo de 3.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercicio - Multiplo de 3\bin\Debug\Exercicio - Multiplo de 3.pdb
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercicio - Multiplo de 3\obj\Debug\Exercicio - Multiplo de 3.csproj.CoreCompileInputs.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercicio - Multiplo de 3\obj\Debug\Exercicio - Multiplo de 3.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\Exercicio - Multiplo de 3\obj\Debug\Exercicio - Multiplo de 3.pdb

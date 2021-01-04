@@ -1,0 +1,6 @@
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p13 - ForEncadeado\bin\Debug\p13 - ForEncadeado.exe.config
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p13 - ForEncadeado\bin\Debug\p13 - ForEncadeado.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p13 - ForEncadeado\bin\Debug\p13 - ForEncadeado.pdb
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p13 - ForEncadeado\obj\Debug\p13 - ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p13 - ForEncadeado\obj\Debug\p13 - ForEncadeado.exe
+C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p13 - ForEncadeado\obj\Debug\p13 - ForEncadeado.pdb
