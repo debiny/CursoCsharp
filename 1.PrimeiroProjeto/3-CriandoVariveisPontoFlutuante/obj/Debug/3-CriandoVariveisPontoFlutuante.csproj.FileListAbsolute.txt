@@ -1,6 +1,0 @@
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\3-CriandoVariveisPontoFlutuante\bin\Debug\3-CriandoVariveisPontoFlutuante.exe.config
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\3-CriandoVariveisPontoFlutuante\bin\Debug\3-CriandoVariveisPontoFlutuante.exe
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\3-CriandoVariveisPontoFlutuante\bin\Debug\3-CriandoVariveisPontoFlutuante.pdb
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\3-CriandoVariveisPontoFlutuante\obj\Debug\3-CriandoVariveisPontoFlutuante.csproj.CoreCompileInputs.cache
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\3-CriandoVariveisPontoFlutuante\obj\Debug\3-CriandoVariveisPontoFlutuante.exe
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\3-CriandoVariveisPontoFlutuante\obj\Debug\3-CriandoVariveisPontoFlutuante.pdb

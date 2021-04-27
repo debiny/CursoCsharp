@@ -1,6 +1,0 @@
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p10-calcula poupaca\bin\Debug\p10-calcula poupaca.exe.config
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p10-calcula poupaca\bin\Debug\p10-calcula poupaca.exe
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p10-calcula poupaca\bin\Debug\p10-calcula poupaca.pdb
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p10-calcula poupaca\obj\Debug\p10-calcula poupaca.csproj.CoreCompileInputs.cache
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p10-calcula poupaca\obj\Debug\p10-calcula poupaca.exe
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\p10-calcula poupaca\obj\Debug\p10-calcula poupaca.pdb

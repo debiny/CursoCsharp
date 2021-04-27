@@ -1,6 +1,0 @@
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\1-Exercicio-Alicota com ifs\bin\Debug\1-Exercicio-Alicota com ifs.exe.config
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\1-Exercicio-Alicota com ifs\bin\Debug\1-Exercicio-Alicota com ifs.exe
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\1-Exercicio-Alicota com ifs\bin\Debug\1-Exercicio-Alicota com ifs.pdb
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\1-Exercicio-Alicota com ifs\obj\Debug\Exercicio-Alicota com ifs.csproj.CoreCompileInputs.cache
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\1-Exercicio-Alicota com ifs\obj\Debug\1-Exercicio-Alicota com ifs.exe
-C:\Projetos\AprendendoCSharp\1.PrimeiroProjeto\1-Exercicio-Alicota com ifs\obj\Debug\1-Exercicio-Alicota com ifs.pdb
